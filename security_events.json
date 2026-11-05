@@ -1,0 +1,3002 @@
+[
+  {
+    "timestamp": "2026-11-02T07:30:37",
+    "source_ip": "197.210.12.105",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0134"
+  },
+  {
+    "timestamp": "2026-11-02T07:33:37",
+    "source_ip": "102.89.23.17",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0100"
+  },
+  {
+    "timestamp": "2026-11-02T07:39:50",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0125"
+  },
+  {
+    "timestamp": "2026-11-02T07:40:08",
+    "source_ip": "203.0.113.17",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0264"
+  },
+  {
+    "timestamp": "2026-11-02T07:41:05",
+    "source_ip": "197.210.12.99",
+    "username": "student.helpdesk",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "results_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0082"
+  },
+  {
+    "timestamp": "2026-11-02T07:41:20",
+    "source_ip": "197.210.12.41",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0071"
+  },
+  {
+    "timestamp": "2026-11-02T07:41:29",
+    "source_ip": "102.89.23.17",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0123"
+  },
+  {
+    "timestamp": "2026-11-02T07:42:35",
+    "source_ip": "102.89.23.17",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0014"
+  },
+  {
+    "timestamp": "2026-11-02T07:43:15",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0029"
+  },
+  {
+    "timestamp": "2026-11-02T07:44:01",
+    "source_ip": "102.89.23.17",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Unknown username",
+    "event_id": "EVT-0266"
+  },
+  {
+    "timestamp": "2026-11-02T07:45:51",
+    "source_ip": "197.210.12.55",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0099"
+  },
+  {
+    "timestamp": "2026-11-02T07:46:23",
+    "source_ip": "197.210.12.105",
+    "username": "ada.okafor",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "helpdesk",
+    "details": "Password reset requested",
+    "event_id": "EVT-0227"
+  },
+  {
+    "timestamp": "2026-11-02T07:47:59",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0281"
+  },
+  {
+    "timestamp": "2026-11-02T07:50:00",
+    "source_ip": "197.210.12.99",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0049"
+  },
+  {
+    "timestamp": "2026-11-02T07:50:16",
+    "source_ip": "198.51.100.23",
+    "username": "ada.okafor",
+    "event": "access",
+    "status": "denied",
+    "application": "course_registration",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0025"
+  },
+  {
+    "timestamp": "2026-11-02T07:53:16",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0107"
+  },
+  {
+    "timestamp": "2026-11-02T07:55:13",
+    "source_ip": "197.210.12.105",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0022"
+  },
+  {
+    "timestamp": "2026-11-02T07:55:48",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0226"
+  },
+  {
+    "timestamp": "2026-11-02T07:56:04",
+    "source_ip": "203.0.113.17",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0114"
+  },
+  {
+    "timestamp": "2026-11-02T07:58:41",
+    "source_ip": "203.0.113.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0106"
+  },
+  {
+    "timestamp": "2026-11-02T08:01:34",
+    "source_ip": "102.89.23.17",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0207"
+  },
+  {
+    "timestamp": "2026-11-02T08:07:39",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0151"
+  },
+  {
+    "timestamp": "2026-11-02T08:12:33",
+    "source_ip": "102.89.23.61",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0254"
+  },
+  {
+    "timestamp": "2026-11-02T08:13:25",
+    "source_ip": "197.210.12.88",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0234"
+  },
+  {
+    "timestamp": "2026-11-02T08:15:15",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0215"
+  },
+  {
+    "timestamp": "2026-11-02T08:15:30",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "fee_payment",
+    "details": "Password reset requested",
+    "event_id": "EVT-0204"
+  },
+  {
+    "timestamp": "2026-11-02T08:16:24",
+    "source_ip": "197.210.12.72",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0072"
+  },
+  {
+    "timestamp": "2026-11-02T08:19:26",
+    "source_ip": "197.210.12.105",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0152"
+  },
+  {
+    "timestamp": "2026-11-02T08:22:01",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0198"
+  },
+  {
+    "timestamp": "2026-11-02T08:23:54",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0270"
+  },
+  {
+    "timestamp": "2026-11-02T08:24:11",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0241"
+  },
+  {
+    "timestamp": "2026-11-02T08:24:14",
+    "source_ip": "102.89.23.29",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0213"
+  },
+  {
+    "timestamp": "2026-11-02T08:26:36",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0075"
+  },
+  {
+    "timestamp": "2026-11-02T08:30:25",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0147"
+  },
+  {
+    "timestamp": "2026-11-02T08:36:21",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0203"
+  },
+  {
+    "timestamp": "2026-11-02T08:38:07",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0173"
+  },
+  {
+    "timestamp": "2026-11-02T08:40:58",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "student_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0231"
+  },
+  {
+    "timestamp": "2026-11-02T08:41:18",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0284"
+  },
+  {
+    "timestamp": "2026-11-02T08:44:09",
+    "source_ip": "197.210.12.105",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0257"
+  },
+  {
+    "timestamp": "2026-11-02T08:45:11",
+    "source_ip": "192.0.2.44",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0225"
+  },
+  {
+    "timestamp": "2026-11-02T08:45:56",
+    "source_ip": "102.89.23.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0020"
+  },
+  {
+    "timestamp": "2026-11-02T08:46:55",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0062"
+  },
+  {
+    "timestamp": "2026-11-02T08:49:00",
+    "source_ip": "102.89.23.61",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0163"
+  },
+  {
+    "timestamp": "2026-11-02T08:49:25",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0179"
+  },
+  {
+    "timestamp": "2026-11-02T08:49:31",
+    "source_ip": "102.89.23.17",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0094"
+  },
+  {
+    "timestamp": "2026-11-02T08:55:17",
+    "source_ip": "102.89.23.29",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0216"
+  },
+  {
+    "timestamp": "2026-11-02T08:56:44",
+    "source_ip": "198.51.100.23",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0084"
+  },
+  {
+    "timestamp": "2026-11-02T08:57:03",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0002"
+  },
+  {
+    "timestamp": "2026-11-02T08:59:02",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0017"
+  },
+  {
+    "timestamp": "2026-11-02T09:00:54",
+    "source_ip": "192.0.2.44",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0141"
+  },
+  {
+    "timestamp": "2026-11-02T09:01:42",
+    "source_ip": "197.210.12.88",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0300"
+  },
+  {
+    "timestamp": "2026-11-02T09:02:16",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0246"
+  },
+  {
+    "timestamp": "2026-11-02T09:02:18",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0197"
+  },
+  {
+    "timestamp": "2026-11-02T09:03:25",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0238"
+  },
+  {
+    "timestamp": "2026-11-02T09:05:07",
+    "source_ip": "197.210.12.55",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0205"
+  },
+  {
+    "timestamp": "2026-11-02T09:07:37",
+    "source_ip": "197.210.12.105",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0165"
+  },
+  {
+    "timestamp": "2026-11-02T09:12:36",
+    "source_ip": "102.89.23.29",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Unknown username",
+    "event_id": "EVT-0098"
+  },
+  {
+    "timestamp": "2026-11-02T09:14:28",
+    "source_ip": "197.210.12.105",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0273"
+  },
+  {
+    "timestamp": "2026-11-02T09:15:25",
+    "source_ip": "203.0.113.17",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0161"
+  },
+  {
+    "timestamp": "2026-11-02T09:17:23",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0155"
+  },
+  {
+    "timestamp": "2026-11-02T09:19:44",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0139"
+  },
+  {
+    "timestamp": "2026-11-02T09:21:29",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0128"
+  },
+  {
+    "timestamp": "2026-11-02T09:21:44",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0233"
+  },
+  {
+    "timestamp": "2026-11-02T09:21:47",
+    "source_ip": "192.0.2.44",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0146"
+  },
+  {
+    "timestamp": "2026-11-02T09:23:30",
+    "source_ip": "197.210.12.105",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0033"
+  },
+  {
+    "timestamp": "2026-11-02T09:27:58",
+    "source_ip": "197.210.12.105",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0239"
+  },
+  {
+    "timestamp": "2026-11-02T09:28:33",
+    "source_ip": "197.210.12.88",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0142"
+  },
+  {
+    "timestamp": "2026-11-02T09:29:33",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0287"
+  },
+  {
+    "timestamp": "2026-11-02T09:33:31",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0121"
+  },
+  {
+    "timestamp": "2026-11-02T09:33:50",
+    "source_ip": "198.51.100.23",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0180"
+  },
+  {
+    "timestamp": "2026-11-02T09:35:13",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0089"
+  },
+  {
+    "timestamp": "2026-11-02T09:36:56",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0120"
+  },
+  {
+    "timestamp": "2026-11-02T09:38:40",
+    "source_ip": "198.51.100.23",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0052"
+  },
+  {
+    "timestamp": "2026-11-02T09:39:27",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0196"
+  },
+  {
+    "timestamp": "2026-11-02T09:39:36",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0249"
+  },
+  {
+    "timestamp": "2026-11-02T09:40:08",
+    "source_ip": "203.0.113.17",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0061"
+  },
+  {
+    "timestamp": "2026-11-02T09:43:16",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0166"
+  },
+  {
+    "timestamp": "2026-11-02T09:43:35",
+    "source_ip": "102.89.23.61",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0275"
+  },
+  {
+    "timestamp": "2026-11-02T09:45:20",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0091"
+  },
+  {
+    "timestamp": "2026-11-02T09:46:13",
+    "source_ip": "197.210.12.41",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0170"
+  },
+  {
+    "timestamp": "2026-11-02T09:48:53",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0298"
+  },
+  {
+    "timestamp": "2026-11-02T09:49:45",
+    "source_ip": "102.89.23.29",
+    "username": "ada.okafor",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "fee_payment",
+    "details": "Password reset requested",
+    "event_id": "EVT-0136"
+  },
+  {
+    "timestamp": "2026-11-02T09:55:18",
+    "source_ip": "198.51.100.23",
+    "username": "ada.okafor",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "fee_payment",
+    "details": "Password reset requested",
+    "event_id": "EVT-0097"
+  },
+  {
+    "timestamp": "2026-11-02T09:59:08",
+    "source_ip": "102.89.23.61",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0286"
+  },
+  {
+    "timestamp": "2026-11-02T10:02:30",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0159"
+  },
+  {
+    "timestamp": "2026-11-02T10:02:59",
+    "source_ip": "197.210.12.72",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0067"
+  },
+  {
+    "timestamp": "2026-11-02T10:03:41",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "access",
+    "status": "denied",
+    "application": "fee_payment",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0290"
+  },
+  {
+    "timestamp": "2026-11-02T10:04:52",
+    "source_ip": "197.210.12.55",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0119"
+  },
+  {
+    "timestamp": "2026-11-02T10:06:21",
+    "source_ip": "192.0.2.44",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0045"
+  },
+  {
+    "timestamp": "2026-11-02T10:06:31",
+    "source_ip": "197.210.12.72",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0077"
+  },
+  {
+    "timestamp": "2026-11-02T10:08:54",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0174"
+  },
+  {
+    "timestamp": "2026-11-02T10:10:03",
+    "source_ip": "197.210.12.105",
+    "username": "unknown_user",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "student_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0262"
+  },
+  {
+    "timestamp": "2026-11-02T10:11:53",
+    "source_ip": "197.210.12.88",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0202"
+  },
+  {
+    "timestamp": "2026-11-02T10:13:15",
+    "source_ip": "198.51.100.23",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0222"
+  },
+  {
+    "timestamp": "2026-11-02T10:13:45",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0115"
+  },
+  {
+    "timestamp": "2026-11-02T10:15:36",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0230"
+  },
+  {
+    "timestamp": "2026-11-02T10:18:48",
+    "source_ip": "203.0.113.17",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0283"
+  },
+  {
+    "timestamp": "2026-11-02T10:21:50",
+    "source_ip": "197.210.12.41",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0252"
+  },
+  {
+    "timestamp": "2026-11-02T10:22:03",
+    "source_ip": "197.210.12.41",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0156"
+  },
+  {
+    "timestamp": "2026-11-02T10:24:50",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0080"
+  },
+  {
+    "timestamp": "2026-11-02T10:25:14",
+    "source_ip": "102.89.23.29",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0289"
+  },
+  {
+    "timestamp": "2026-11-02T10:30:06",
+    "source_ip": "197.210.12.72",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0053"
+  },
+  {
+    "timestamp": "2026-11-02T10:32:28",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0210"
+  },
+  {
+    "timestamp": "2026-11-02T10:36:09",
+    "source_ip": "102.89.23.61",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0040"
+  },
+  {
+    "timestamp": "2026-11-02T10:37:52",
+    "source_ip": "102.89.23.61",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0056"
+  },
+  {
+    "timestamp": "2026-11-02T10:38:36",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0181"
+  },
+  {
+    "timestamp": "2026-11-02T10:40:04",
+    "source_ip": "197.210.12.99",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0162"
+  },
+  {
+    "timestamp": "2026-11-02T10:45:26",
+    "source_ip": "197.210.12.88",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0127"
+  },
+  {
+    "timestamp": "2026-11-02T10:51:57",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0103"
+  },
+  {
+    "timestamp": "2026-11-02T10:52:09",
+    "source_ip": "197.210.12.105",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0190"
+  },
+  {
+    "timestamp": "2026-11-02T10:53:14",
+    "source_ip": "203.0.113.17",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0259"
+  },
+  {
+    "timestamp": "2026-11-02T10:53:49",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0171"
+  },
+  {
+    "timestamp": "2026-11-02T10:55:18",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0296"
+  },
+  {
+    "timestamp": "2026-11-02T10:55:49",
+    "source_ip": "197.210.12.41",
+    "username": "tunde.ade",
+    "event": "access",
+    "status": "denied",
+    "application": "results_portal",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0058"
+  },
+  {
+    "timestamp": "2026-11-02T10:59:27",
+    "source_ip": "197.210.12.105",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0172"
+  },
+  {
+    "timestamp": "2026-11-02T11:04:56",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "access",
+    "status": "denied",
+    "application": "student_portal",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0150"
+  },
+  {
+    "timestamp": "2026-11-02T11:09:54",
+    "source_ip": "197.210.12.41",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0102"
+  },
+  {
+    "timestamp": "2026-11-02T11:11:19",
+    "source_ip": "197.210.12.105",
+    "username": "student.helpdesk",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "fee_payment",
+    "details": "Password reset requested",
+    "event_id": "EVT-0247"
+  },
+  {
+    "timestamp": "2026-11-02T11:11:28",
+    "source_ip": "197.210.12.55",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0263"
+  },
+  {
+    "timestamp": "2026-11-02T11:11:33",
+    "source_ip": "192.0.2.44",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0086"
+  },
+  {
+    "timestamp": "2026-11-02T11:12:15",
+    "source_ip": "197.210.12.41",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0285"
+  },
+  {
+    "timestamp": "2026-11-02T11:12:31",
+    "source_ip": "192.0.2.44",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0005"
+  },
+  {
+    "timestamp": "2026-11-02T11:14:42",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0145"
+  },
+  {
+    "timestamp": "2026-11-02T11:16:35",
+    "source_ip": "192.0.2.44",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0023"
+  },
+  {
+    "timestamp": "2026-11-02T11:16:46",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0160"
+  },
+  {
+    "timestamp": "2026-11-02T11:16:54",
+    "source_ip": "203.0.113.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0294"
+  },
+  {
+    "timestamp": "2026-11-02T11:17:06",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0236"
+  },
+  {
+    "timestamp": "2026-11-02T11:17:22",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0211"
+  },
+  {
+    "timestamp": "2026-11-02T11:18:47",
+    "source_ip": "197.210.12.88",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0016"
+  },
+  {
+    "timestamp": "2026-11-02T11:19:12",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0068"
+  },
+  {
+    "timestamp": "2026-11-02T11:25:08",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "access",
+    "status": "denied",
+    "application": "fee_payment",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0034"
+  },
+  {
+    "timestamp": "2026-11-02T11:25:45",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "student_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0064"
+  },
+  {
+    "timestamp": "2026-11-02T11:26:28",
+    "source_ip": "197.210.12.99",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0069"
+  },
+  {
+    "timestamp": "2026-11-02T11:26:31",
+    "source_ip": "192.0.2.44",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0073"
+  },
+  {
+    "timestamp": "2026-11-02T11:26:32",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0041"
+  },
+  {
+    "timestamp": "2026-11-02T11:28:15",
+    "source_ip": "197.210.12.105",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0101"
+  },
+  {
+    "timestamp": "2026-11-02T11:28:17",
+    "source_ip": "197.210.12.88",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0012"
+  },
+  {
+    "timestamp": "2026-11-02T11:30:42",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0095"
+  },
+  {
+    "timestamp": "2026-11-02T11:32:10",
+    "source_ip": "197.210.12.72",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0055"
+  },
+  {
+    "timestamp": "2026-11-02T11:34:49",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0129"
+  },
+  {
+    "timestamp": "2026-11-02T11:37:18",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0085"
+  },
+  {
+    "timestamp": "2026-11-02T11:40:14",
+    "source_ip": "197.210.12.105",
+    "username": "musa.bello",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "helpdesk",
+    "details": "Password reset requested",
+    "event_id": "EVT-0104"
+  },
+  {
+    "timestamp": "2026-11-02T11:40:23",
+    "source_ip": "102.89.23.61",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0070"
+  },
+  {
+    "timestamp": "2026-11-02T11:42:21",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "results_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0214"
+  },
+  {
+    "timestamp": "2026-11-02T11:42:42",
+    "source_ip": "203.0.113.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0192"
+  },
+  {
+    "timestamp": "2026-11-02T11:46:10",
+    "source_ip": "197.210.12.99",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0090"
+  },
+  {
+    "timestamp": "2026-11-02T11:46:21",
+    "source_ip": "102.89.23.17",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0253"
+  },
+  {
+    "timestamp": "2026-11-02T11:46:32",
+    "source_ip": "203.0.113.17",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0117"
+  },
+  {
+    "timestamp": "2026-11-02T11:48:50",
+    "source_ip": "192.0.2.44",
+    "username": "ifeoma.uzo",
+    "event": "access",
+    "status": "denied",
+    "application": "results_portal",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0088"
+  },
+  {
+    "timestamp": "2026-11-02T11:51:48",
+    "source_ip": "102.89.23.61",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Unknown username",
+    "event_id": "EVT-0096"
+  },
+  {
+    "timestamp": "2026-11-02T11:52:51",
+    "source_ip": "192.0.2.44",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0066"
+  },
+  {
+    "timestamp": "2026-11-02T11:54:09",
+    "source_ip": "102.89.23.61",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0245"
+  },
+  {
+    "timestamp": "2026-11-02T11:54:34",
+    "source_ip": "197.210.12.105",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0232"
+  },
+  {
+    "timestamp": "2026-11-02T11:55:07",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "access",
+    "status": "denied",
+    "application": "results_portal",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0292"
+  },
+  {
+    "timestamp": "2026-11-02T11:58:15",
+    "source_ip": "197.210.12.88",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0109"
+  },
+  {
+    "timestamp": "2026-11-02T11:58:15",
+    "source_ip": "198.51.100.23",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0299"
+  },
+  {
+    "timestamp": "2026-11-02T12:01:37",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0019"
+  },
+  {
+    "timestamp": "2026-11-02T12:02:52",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0237"
+  },
+  {
+    "timestamp": "2026-11-02T12:06:05",
+    "source_ip": "102.89.23.17",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0218"
+  },
+  {
+    "timestamp": "2026-11-02T12:07:50",
+    "source_ip": "203.0.113.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0242"
+  },
+  {
+    "timestamp": "2026-11-02T12:08:07",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0250"
+  },
+  {
+    "timestamp": "2026-11-02T12:08:31",
+    "source_ip": "197.210.12.105",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0248"
+  },
+  {
+    "timestamp": "2026-11-02T12:08:52",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0043"
+  },
+  {
+    "timestamp": "2026-11-02T12:09:05",
+    "source_ip": "192.0.2.44",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0291"
+  },
+  {
+    "timestamp": "2026-11-02T12:10:11",
+    "source_ip": "197.210.12.99",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0184"
+  },
+  {
+    "timestamp": "2026-11-02T12:13:09",
+    "source_ip": "192.0.2.44",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0143"
+  },
+  {
+    "timestamp": "2026-11-02T12:16:33",
+    "source_ip": "102.89.23.29",
+    "username": "admin.support",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "course_registration",
+    "details": "Password reset requested",
+    "event_id": "EVT-0138"
+  },
+  {
+    "timestamp": "2026-11-02T12:19:53",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0219"
+  },
+  {
+    "timestamp": "2026-11-02T12:20:10",
+    "source_ip": "102.89.23.61",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0076"
+  },
+  {
+    "timestamp": "2026-11-02T12:21:17",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0105"
+  },
+  {
+    "timestamp": "2026-11-02T12:24:47",
+    "source_ip": "198.51.100.23",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0279"
+  },
+  {
+    "timestamp": "2026-11-02T12:27:37",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0009"
+  },
+  {
+    "timestamp": "2026-11-02T12:28:21",
+    "source_ip": "198.51.100.23",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0006"
+  },
+  {
+    "timestamp": "2026-11-02T12:30:57",
+    "source_ip": "102.89.23.17",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0182"
+  },
+  {
+    "timestamp": "2026-11-02T12:32:00",
+    "source_ip": "102.89.23.29",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0297"
+  },
+  {
+    "timestamp": "2026-11-02T12:33:54",
+    "source_ip": "102.89.23.61",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0048"
+  },
+  {
+    "timestamp": "2026-11-02T12:35:15",
+    "source_ip": "197.210.12.105",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0132"
+  },
+  {
+    "timestamp": "2026-11-02T12:36:01",
+    "source_ip": "102.89.23.17",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0131"
+  },
+  {
+    "timestamp": "2026-11-02T12:39:18",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0110"
+  },
+  {
+    "timestamp": "2026-11-02T12:39:23",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0001"
+  },
+  {
+    "timestamp": "2026-11-02T12:40:48",
+    "source_ip": "197.210.12.72",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0108"
+  },
+  {
+    "timestamp": "2026-11-02T12:44:48",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0116"
+  },
+  {
+    "timestamp": "2026-11-02T12:49:17",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0209"
+  },
+  {
+    "timestamp": "2026-11-02T12:49:35",
+    "source_ip": "198.51.100.23",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0035"
+  },
+  {
+    "timestamp": "2026-11-02T12:55:18",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0217"
+  },
+  {
+    "timestamp": "2026-11-02T12:58:02",
+    "source_ip": "203.0.113.17",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0154"
+  },
+  {
+    "timestamp": "2026-11-02T12:58:24",
+    "source_ip": "197.210.12.88",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0153"
+  },
+  {
+    "timestamp": "2026-11-02T13:01:44",
+    "source_ip": "102.89.23.29",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0271"
+  },
+  {
+    "timestamp": "2026-11-02T13:03:28",
+    "source_ip": "197.210.12.55",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0277"
+  },
+  {
+    "timestamp": "2026-11-02T13:06:03",
+    "source_ip": "102.89.23.61",
+    "username": "ifeoma.uzo",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "fee_payment",
+    "details": "Password reset requested",
+    "event_id": "EVT-0240"
+  },
+  {
+    "timestamp": "2026-11-02T13:06:54",
+    "source_ip": "197.210.12.72",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0004"
+  },
+  {
+    "timestamp": "2026-11-02T13:09:08",
+    "source_ip": "197.210.12.55",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0078"
+  },
+  {
+    "timestamp": "2026-11-02T13:10:44",
+    "source_ip": "102.89.23.61",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0276"
+  },
+  {
+    "timestamp": "2026-11-02T13:11:22",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0185"
+  },
+  {
+    "timestamp": "2026-11-02T13:11:59",
+    "source_ip": "197.210.12.105",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0193"
+  },
+  {
+    "timestamp": "2026-11-02T13:12:39",
+    "source_ip": "102.89.23.61",
+    "username": "musa.bello",
+    "event": "access",
+    "status": "denied",
+    "application": "helpdesk",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0187"
+  },
+  {
+    "timestamp": "2026-11-02T13:15:19",
+    "source_ip": "203.0.113.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0268"
+  },
+  {
+    "timestamp": "2026-11-02T13:18:20",
+    "source_ip": "197.210.12.99",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0206"
+  },
+  {
+    "timestamp": "2026-11-02T13:18:47",
+    "source_ip": "102.89.23.29",
+    "username": "tunde.ade",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "results_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0087"
+  },
+  {
+    "timestamp": "2026-11-02T13:19:06",
+    "source_ip": "197.210.12.99",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0183"
+  },
+  {
+    "timestamp": "2026-11-02T13:19:13",
+    "source_ip": "102.89.23.17",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0083"
+  },
+  {
+    "timestamp": "2026-11-02T13:19:22",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0208"
+  },
+  {
+    "timestamp": "2026-11-02T13:19:42",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0007"
+  },
+  {
+    "timestamp": "2026-11-02T13:20:02",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0060"
+  },
+  {
+    "timestamp": "2026-11-02T13:23:00",
+    "source_ip": "197.210.12.72",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0244"
+  },
+  {
+    "timestamp": "2026-11-02T13:23:12",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0265"
+  },
+  {
+    "timestamp": "2026-11-02T13:23:56",
+    "source_ip": "102.89.23.29",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0130"
+  },
+  {
+    "timestamp": "2026-11-02T13:24:50",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "access",
+    "status": "denied",
+    "application": "fee_payment",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0003"
+  },
+  {
+    "timestamp": "2026-11-02T13:26:33",
+    "source_ip": "197.210.12.55",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0251"
+  },
+  {
+    "timestamp": "2026-11-02T13:29:42",
+    "source_ip": "197.210.12.88",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0112"
+  },
+  {
+    "timestamp": "2026-11-02T13:31:43",
+    "source_ip": "102.89.23.29",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0028"
+  },
+  {
+    "timestamp": "2026-11-02T13:36:49",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "course_registration",
+    "details": "Password reset requested",
+    "event_id": "EVT-0256"
+  },
+  {
+    "timestamp": "2026-11-02T13:40:01",
+    "source_ip": "102.89.23.29",
+    "username": "musa.bello",
+    "event": "access",
+    "status": "denied",
+    "application": "helpdesk",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0194"
+  },
+  {
+    "timestamp": "2026-11-02T13:40:17",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0126"
+  },
+  {
+    "timestamp": "2026-11-02T13:40:28",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0235"
+  },
+  {
+    "timestamp": "2026-11-02T13:52:32",
+    "source_ip": "197.210.12.99",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0158"
+  },
+  {
+    "timestamp": "2026-11-02T13:55:58",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0021"
+  },
+  {
+    "timestamp": "2026-11-02T13:57:21",
+    "source_ip": "197.210.12.99",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0051"
+  },
+  {
+    "timestamp": "2026-11-02T13:59:22",
+    "source_ip": "102.89.23.29",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0195"
+  },
+  {
+    "timestamp": "2026-11-02T14:00:34",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0224"
+  },
+  {
+    "timestamp": "2026-11-02T14:01:21",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0288"
+  },
+  {
+    "timestamp": "2026-11-02T14:02:33",
+    "source_ip": "197.210.12.72",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0038"
+  },
+  {
+    "timestamp": "2026-11-02T14:03:23",
+    "source_ip": "198.51.100.23",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0200"
+  },
+  {
+    "timestamp": "2026-11-02T14:04:12",
+    "source_ip": "102.89.23.61",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0046"
+  },
+  {
+    "timestamp": "2026-11-02T14:04:51",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0093"
+  },
+  {
+    "timestamp": "2026-11-02T14:07:05",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0124"
+  },
+  {
+    "timestamp": "2026-11-02T14:09:56",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "helpdesk",
+    "details": "Password reset requested",
+    "event_id": "EVT-0274"
+  },
+  {
+    "timestamp": "2026-11-02T14:11:05",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0243"
+  },
+  {
+    "timestamp": "2026-11-02T14:13:33",
+    "source_ip": "197.210.12.88",
+    "username": "tunde.ade",
+    "event": "access",
+    "status": "denied",
+    "application": "results_portal",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0176"
+  },
+  {
+    "timestamp": "2026-11-02T14:20:42",
+    "source_ip": "203.0.113.17",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0228"
+  },
+  {
+    "timestamp": "2026-11-02T14:22:14",
+    "source_ip": "102.89.23.61",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0177"
+  },
+  {
+    "timestamp": "2026-11-02T14:22:54",
+    "source_ip": "197.210.12.105",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0137"
+  },
+  {
+    "timestamp": "2026-11-02T14:23:25",
+    "source_ip": "197.210.12.55",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0148"
+  },
+  {
+    "timestamp": "2026-11-02T14:24:12",
+    "source_ip": "102.89.23.61",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0065"
+  },
+  {
+    "timestamp": "2026-11-02T14:25:00",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "results_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0258"
+  },
+  {
+    "timestamp": "2026-11-02T14:25:47",
+    "source_ip": "197.210.12.41",
+    "username": "tunde.ade",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0135"
+  },
+  {
+    "timestamp": "2026-11-02T14:26:19",
+    "source_ip": "197.210.12.55",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0010"
+  },
+  {
+    "timestamp": "2026-11-02T14:26:41",
+    "source_ip": "197.210.12.105",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0220"
+  },
+  {
+    "timestamp": "2026-11-02T14:26:49",
+    "source_ip": "197.210.12.55",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0047"
+  },
+  {
+    "timestamp": "2026-11-02T14:27:24",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0255"
+  },
+  {
+    "timestamp": "2026-11-02T14:27:25",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0164"
+  },
+  {
+    "timestamp": "2026-11-02T14:29:37",
+    "source_ip": "102.89.23.61",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0027"
+  },
+  {
+    "timestamp": "2026-11-02T14:30:33",
+    "source_ip": "102.89.23.61",
+    "username": "ifeoma.uzo",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "helpdesk",
+    "details": "Password reset requested",
+    "event_id": "EVT-0269"
+  },
+  {
+    "timestamp": "2026-11-02T14:38:16",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0133"
+  },
+  {
+    "timestamp": "2026-11-02T14:39:14",
+    "source_ip": "203.0.113.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0144"
+  },
+  {
+    "timestamp": "2026-11-02T14:39:55",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "results_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0175"
+  },
+  {
+    "timestamp": "2026-11-02T14:41:51",
+    "source_ip": "192.0.2.44",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0221"
+  },
+  {
+    "timestamp": "2026-11-02T14:44:55",
+    "source_ip": "197.210.12.41",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0272"
+  },
+  {
+    "timestamp": "2026-11-02T14:46:15",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "fee_payment",
+    "details": "Login successful",
+    "event_id": "EVT-0057"
+  },
+  {
+    "timestamp": "2026-11-02T14:49:51",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0079"
+  },
+  {
+    "timestamp": "2026-11-02T14:50:16",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0122"
+  },
+  {
+    "timestamp": "2026-11-02T14:51:30",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0031"
+  },
+  {
+    "timestamp": "2026-11-02T14:53:46",
+    "source_ip": "102.89.23.61",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0157"
+  },
+  {
+    "timestamp": "2026-11-02T14:56:04",
+    "source_ip": "102.89.23.17",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0169"
+  },
+  {
+    "timestamp": "2026-11-02T14:58:16",
+    "source_ip": "102.89.23.17",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0015"
+  },
+  {
+    "timestamp": "2026-11-02T15:01:18",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0037"
+  },
+  {
+    "timestamp": "2026-11-02T15:02:43",
+    "source_ip": "102.89.23.61",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0081"
+  },
+  {
+    "timestamp": "2026-11-02T15:02:50",
+    "source_ip": "102.89.23.61",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0282"
+  },
+  {
+    "timestamp": "2026-11-02T15:06:22",
+    "source_ip": "102.89.23.61",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0140"
+  },
+  {
+    "timestamp": "2026-11-02T15:06:53",
+    "source_ip": "197.210.12.99",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0044"
+  },
+  {
+    "timestamp": "2026-11-02T15:11:29",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0186"
+  },
+  {
+    "timestamp": "2026-11-02T15:11:52",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "access",
+    "status": "denied",
+    "application": "course_registration",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0054"
+  },
+  {
+    "timestamp": "2026-11-02T15:14:55",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0074"
+  },
+  {
+    "timestamp": "2026-11-02T15:22:34",
+    "source_ip": "197.210.12.105",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0092"
+  },
+  {
+    "timestamp": "2026-11-02T15:25:12",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0167"
+  },
+  {
+    "timestamp": "2026-11-02T15:28:07",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0042"
+  },
+  {
+    "timestamp": "2026-11-02T15:28:30",
+    "source_ip": "197.210.12.88",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0050"
+  },
+  {
+    "timestamp": "2026-11-02T15:28:55",
+    "source_ip": "203.0.113.17",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0261"
+  },
+  {
+    "timestamp": "2026-11-02T15:30:09",
+    "source_ip": "203.0.113.17",
+    "username": "john.daniel",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0036"
+  },
+  {
+    "timestamp": "2026-11-02T15:33:51",
+    "source_ip": "197.210.12.105",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0295"
+  },
+  {
+    "timestamp": "2026-11-02T15:34:21",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Unknown username",
+    "event_id": "EVT-0026"
+  },
+  {
+    "timestamp": "2026-11-02T15:35:06",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0149"
+  },
+  {
+    "timestamp": "2026-11-02T15:35:49",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0201"
+  },
+  {
+    "timestamp": "2026-11-02T15:38:08",
+    "source_ip": "197.210.12.72",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Unknown username",
+    "event_id": "EVT-0188"
+  },
+  {
+    "timestamp": "2026-11-02T15:41:30",
+    "source_ip": "198.51.100.23",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0024"
+  },
+  {
+    "timestamp": "2026-11-02T15:41:34",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0280"
+  },
+  {
+    "timestamp": "2026-11-02T15:43:01",
+    "source_ip": "197.210.12.105",
+    "username": "musa.bello",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "student_portal",
+    "details": "Password reset requested",
+    "event_id": "EVT-0199"
+  },
+  {
+    "timestamp": "2026-11-02T15:43:37",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "access",
+    "status": "denied",
+    "application": "fee_payment",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0260"
+  },
+  {
+    "timestamp": "2026-11-02T15:50:26",
+    "source_ip": "197.210.12.88",
+    "username": "ngozi.obi",
+    "event": "login",
+    "status": "failed",
+    "application": "course_registration",
+    "details": "Invalid password",
+    "event_id": "EVT-0059"
+  },
+  {
+    "timestamp": "2026-11-02T15:50:54",
+    "source_ip": "197.210.12.55",
+    "username": "musa.bello",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0011"
+  },
+  {
+    "timestamp": "2026-11-02T15:55:24",
+    "source_ip": "102.89.23.29",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0223"
+  },
+  {
+    "timestamp": "2026-11-02T15:56:19",
+    "source_ip": "197.210.12.72",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "course_registration",
+    "details": "Login successful",
+    "event_id": "EVT-0178"
+  },
+  {
+    "timestamp": "2026-11-02T15:56:33",
+    "source_ip": "198.51.100.23",
+    "username": "chidi.eze",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "course_registration",
+    "details": "Password reset requested",
+    "event_id": "EVT-0212"
+  },
+  {
+    "timestamp": "2026-11-02T15:58:32",
+    "source_ip": "197.210.12.99",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0013"
+  },
+  {
+    "timestamp": "2026-11-02T16:00:26",
+    "source_ip": "102.89.23.17",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0018"
+  },
+  {
+    "timestamp": "2026-11-02T16:02:14",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0030"
+  },
+  {
+    "timestamp": "2026-11-02T16:04:26",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0063"
+  },
+  {
+    "timestamp": "2026-11-02T16:06:09",
+    "source_ip": "197.210.12.88",
+    "username": "ifeoma.uzo",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0278"
+  },
+  {
+    "timestamp": "2026-11-02T16:06:10",
+    "source_ip": "198.51.100.23",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "helpdesk",
+    "details": "Login successful",
+    "event_id": "EVT-0113"
+  },
+  {
+    "timestamp": "2026-11-02T16:07:06",
+    "source_ip": "197.210.12.105",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0039"
+  },
+  {
+    "timestamp": "2026-11-02T16:10:55",
+    "source_ip": "197.210.12.88",
+    "username": "admin.support",
+    "event": "login",
+    "status": "success",
+    "application": "student_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0168"
+  },
+  {
+    "timestamp": "2026-11-02T16:11:02",
+    "source_ip": "192.0.2.44",
+    "username": "bursary.staff",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0118"
+  },
+  {
+    "timestamp": "2026-11-02T16:17:36",
+    "source_ip": "102.89.23.29",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "fee_payment",
+    "details": "Invalid password",
+    "event_id": "EVT-0189"
+  },
+  {
+    "timestamp": "2026-11-02T16:17:54",
+    "source_ip": "102.89.23.17",
+    "username": "admin.support",
+    "event": "login",
+    "status": "failed",
+    "application": "helpdesk",
+    "details": "Invalid password",
+    "event_id": "EVT-0293"
+  },
+  {
+    "timestamp": "2026-11-02T16:20:29",
+    "source_ip": "197.210.12.88",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "results_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0111"
+  },
+  {
+    "timestamp": "2026-11-02T16:22:58",
+    "source_ip": "197.210.12.55",
+    "username": "student.helpdesk",
+    "event": "login",
+    "status": "success",
+    "application": "results_portal",
+    "details": "Login successful",
+    "event_id": "EVT-0267"
+  },
+  {
+    "timestamp": "2026-11-02T16:23:44",
+    "source_ip": "197.210.12.41",
+    "username": "ifeoma.uzo",
+    "event": "password_reset",
+    "status": "requested",
+    "application": "course_registration",
+    "details": "Password reset requested",
+    "event_id": "EVT-0008"
+  },
+  {
+    "timestamp": "2026-11-02T16:26:39",
+    "source_ip": "192.0.2.44",
+    "username": "unknown_user",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Unknown username",
+    "event_id": "EVT-0229"
+  },
+  {
+    "timestamp": "2026-11-02T16:27:23",
+    "source_ip": "197.210.12.55",
+    "username": "chidi.eze",
+    "event": "login",
+    "status": "failed",
+    "application": "student_portal",
+    "details": "Invalid password",
+    "event_id": "EVT-0032"
+  },
+  {
+    "timestamp": "2026-11-02T16:27:57",
+    "source_ip": "197.210.12.41",
+    "username": "ada.okafor",
+    "event": "access",
+    "status": "denied",
+    "application": "fee_payment",
+    "details": "Insufficient permissions",
+    "event_id": "EVT-0191"
+  }
+]
